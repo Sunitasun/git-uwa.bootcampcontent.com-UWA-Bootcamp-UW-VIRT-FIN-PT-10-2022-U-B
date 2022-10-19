@@ -1,0 +1,11 @@
++ # create cariables
++ Company_Name = "HELOC Specialists"
++ Years in Business = 100
++ Hourly Wages = 144.33
++ Expert Status = True
++
+# Print the Variable
++ print (company_Name)
++ print (Years in Business)
++ print (Hourly Wages)
++ print (Expert Status)
